@@ -11,6 +11,7 @@
     {"id":{"name":"spr_plane1_strip3","path":"sprites/spr_plane1_strip3/spr_plane1_strip3.yy",},"order":13,},
     {"id":{"name":"spr_plant1","path":"sprites/spr_plant1/spr_plant1.yy",},"order":3,},
     {"id":{"name":"spr_rock","path":"sprites/spr_rock/spr_rock.yy",},"order":2,},
+    {"id":{"name":"Sound1","path":"sounds/Sound1/Sound1.yy",},"order":0,},
     {"id":{"name":"spr_enemy2","path":"sprites/spr_enemy2/spr_enemy2.yy",},"order":10,},
     {"id":{"name":"spr_enemy1","path":"sprites/spr_enemy1/spr_enemy1.yy",},"order":1,},
     {"id":{"name":"spr_bullet1","path":"sprites/spr_bullet1/spr_bullet1.yy",},"order":6,},
