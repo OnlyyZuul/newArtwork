@@ -1,11 +1,13 @@
 {
   "resources": [
     {"id":{"name":"spr_enemy2_strip3","path":"sprites/spr_enemy2_strip3/spr_enemy2_strip3.yy",},"order":19,},
+    {"id":{"name":"spr_key","path":"sprites/spr_key/spr_key.yy",},"order":21,},
     {"id":{"name":"gun_fire_highburst","path":"sounds/gun_fire_highburst/gun_fire_highburst.yy",},"order":3,},
     {"id":{"name":"spr_fireBullet_strip4","path":"sprites/spr_fireBullet_strip4/spr_fireBullet_strip4.yy",},"order":12,},
     {"id":{"name":"spr_plane1","path":"sprites/spr_plane1/spr_plane1.yy",},"order":8,},
     {"id":{"name":"gun_fire_mediumburst","path":"sounds/gun_fire_mediumburst/gun_fire_mediumburst.yy",},"order":2,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
+    {"id":{"name":"spr_exit","path":"sprites/spr_exit/spr_exit.yy",},"order":22,},
     {"id":{"name":"explosion","path":"sounds/explosion/explosion.yy",},"order":1,},
     {"id":{"name":"spr_health","path":"sprites/spr_health/spr_health.yy",},"order":5,},
     {"id":{"name":"spr_gun1","path":"sprites/spr_gun1/spr_gun1.yy",},"order":4,},
