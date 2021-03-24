@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"spr_enemy2_strip3","path":"sprites/spr_enemy2_strip3/spr_enemy2_strip3.yy",},"order":19,},
     {"id":{"name":"gun_fire_highburst","path":"sounds/gun_fire_highburst/gun_fire_highburst.yy",},"order":3,},
     {"id":{"name":"spr_fireBullet_strip4","path":"sprites/spr_fireBullet_strip4/spr_fireBullet_strip4.yy",},"order":12,},
     {"id":{"name":"spr_plane1","path":"sprites/spr_plane1/spr_plane1.yy",},"order":8,},
@@ -10,16 +11,20 @@
     {"id":{"name":"spr_gun1","path":"sprites/spr_gun1/spr_gun1.yy",},"order":4,},
     {"id":{"name":"spr_flyer_strip3","path":"sprites/spr_flyer_strip3/spr_flyer_strip3.yy",},"order":15,},
     {"id":{"name":"spr_crate","path":"sprites/spr_crate/spr_crate.yy",},"order":14,},
+    {"id":{"name":"spr_player_strip4","path":"sprites/spr_player_strip4/spr_player_strip4.yy",},"order":17,},
     {"id":{"name":"spr_enemy3","path":"sprites/spr_enemy3/spr_enemy3.yy",},"order":11,},
     {"id":{"name":"spr_plane1_strip3","path":"sprites/spr_plane1_strip3/spr_plane1_strip3.yy",},"order":13,},
+    {"id":{"name":"spr_enemy1_strip3","path":"sprites/spr_enemy1_strip3/spr_enemy1_strip3.yy",},"order":18,},
     {"id":{"name":"spr_plant1","path":"sprites/spr_plant1/spr_plant1.yy",},"order":3,},
     {"id":{"name":"spr_rock","path":"sprites/spr_rock/spr_rock.yy",},"order":2,},
+    {"id":{"name":"spr_enemy3_strip3","path":"sprites/spr_enemy3_strip3/spr_enemy3_strip3.yy",},"order":20,},
     {"id":{"name":"gun_fire_single","path":"sounds/gun_fire_single/gun_fire_single.yy",},"order":0,},
     {"id":{"name":"spr_enemy2","path":"sprites/spr_enemy2/spr_enemy2.yy",},"order":10,},
     {"id":{"name":"spr_enemy1","path":"sprites/spr_enemy1/spr_enemy1.yy",},"order":1,},
     {"id":{"name":"spr_bullet1","path":"sprites/spr_bullet1/spr_bullet1.yy",},"order":6,},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"order":0,},
     {"id":{"name":"spr_cloud","path":"sprites/spr_cloud/spr_cloud.yy",},"order":7,},
+    {"id":{"name":"spr_gearCrate","path":"sprites/spr_gearCrate/spr_gearCrate.yy",},"order":16,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
